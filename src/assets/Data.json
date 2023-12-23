@@ -4,7 +4,7 @@
     "contractType": "CDI",
     "country": "Australie",
     "city": "Sydney",
-    "className": "red",
+    "className": "green",
     "id": 1
   },
   {
@@ -36,7 +36,7 @@
     "contractType": "CDI",
     "country": "France",
     "city": "Paris",
-    "className": "blue",
+    "className": "green",
     "id": 5
   },
   {
@@ -68,7 +68,7 @@
     "contractType": "CDI",
     "country": "France",
     "city": "Pantin",
-    "className": "red",
+    "className": "green",
     "id": 9
   }
 ]

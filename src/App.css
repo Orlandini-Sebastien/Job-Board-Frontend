@@ -5,7 +5,7 @@ footer {
 	width: 80%;
 	text-align: center;
 	font-weight: 700;
-    font-size: 32px;
+	font-size: 32px;
 }
 
 .layout {
@@ -23,16 +23,6 @@ section {
 	flex-direction: column;
 }
 
-.red {
-	border: solid darkred 10px;
-	width: 25%;
-	height: 25vh;
-	margin: 10px;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-}
-
 .yellow {
 	border: solid darkgoldenrod 10px;
 	width: 25%;
@@ -45,15 +35,6 @@ section {
 
 .green {
 	border: solid darkgreen 10px;
-	width: 25%;
-	height: 25vh;
-	margin: 10px;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-}
-.blue {
-	border: solid darkblue 10px;
 	width: 25%;
 	height: 25vh;
 	margin: 10px;
